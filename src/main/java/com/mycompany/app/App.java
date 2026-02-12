@@ -8,5 +8,6 @@ public class App {
         System.out.println("Hello World!");
         System.out.println("Something new to check if commited changes are automatically deployed");
         System.out.println("Third line to check if commited changes are automatically deployed");
+        System.out.println("Fnal test");
     }
 }
