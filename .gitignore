@@ -1,0 +1,14 @@
+# Maven build folder
+/target/
+
+# Eclipse/IntelliJ files
+*.iml
+.idea/
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.tar
